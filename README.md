@@ -1,4 +1,4 @@
-# Study Mates
+# Study Mates Production
 
 A real-time tutorial session management tool for university tutorials. Staff (tutors/lecturers) create sessions and students join with a 6-letter code. The system automatically assigns students into study groups based on GPA compatibility and schedule availability, then facilitates timed group discussions.
 
